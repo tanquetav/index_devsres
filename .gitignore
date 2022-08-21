@@ -1,0 +1,8 @@
+venv
+.vscode
+tools
+__pycache__
+sendgrid.env
+credentials.json
+token.pickle
+
