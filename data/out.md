@@ -1,4 +1,21 @@
 # Post 
+[https://www.instagram.com/p/Chs_mLpMnpb](https://www.instagram.com/p/Chs_mLpMnpb)
+
+![](Chs_mLpMnpb.jpg)
+
+
+Mas afinal, o que é o CI do CI/CD? O que é essa tal de "integração contínua"?
+
+Para entender adequadamente este conceito que muita gente toma como garantido hoje em dia, é necessário fazer um paralelo com a época em que a integração não era contínua!
+
+É fácil entender a ideia de "continuous deployment". Mas, em uma entrevista de emprego, você conseguiria dar uma resposta satisfatória se o recrutador perguntar o que é o CI do CI/CD e como você ajudaria a otimizar o processo de desenvolvimento deles?
+
+Se a resposta à pergunta acima é não, espero que curta o post!
+
+#devops #cicd  #sre #devsres
+
+
+# Post 
 [https://www.instagram.com/p/ChfE3GoNrRE](https://www.instagram.com/p/ChfE3GoNrRE)
 
 ![](ChfE3GoNrRE.jpg)
