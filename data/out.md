@@ -1,4 +1,25 @@
 # Post 
+[https://www.instagram.com/p/CiWHKSHrlSv](https://www.instagram.com/p/CiWHKSHrlSv)
+
+![](CiWHKSHrlSv.jpg)
+
+
+Você sabe definir observabilidade?
+
+Eu lembro da época em que a expressão "cloud computing" passou a fazer parte do vocabulário das pessoas - isso antes de termos os grandes provedores de cloud pública consolidados no mercado. 
+
+Era até divertido: você participava de um evento com 10 apresentações de 10 empresas diferentes (cujo propósito final era vender produtos) e eram apresentadas 10 definições diferentes - muitas delas inclusive incompatíveis entre si.
+
+Observabilidade não é tão polêmico ou confuso assim, mas ainda sinto um pouco que confusão e conflito onde não deveria existir, em especial ao tentar colocar monitoramento e observabilidade em duas raias distintas em vez de um ser a evolução natural do outro.
+
+Hoje vou entregar a minha visão da melhor definição para observabilidade que eu conheço com um pouco do histórico para te ajudar a entender de onde ela veio.
+
+Espero que curtam!
+
+#devops #observability #monitoring #cloud #devsres
+
+
+# Post 
 [https://www.instagram.com/p/Chs_mLpMnpb](https://www.instagram.com/p/Chs_mLpMnpb)
 
 ![](Chs_mLpMnpb.jpg)
