@@ -1,4 +1,44 @@
 # Post 
+[https://www.instagram.com/p/CjRXnnGAJo3](https://www.instagram.com/p/CjRXnnGAJo3)
+
+![](CjRXnnGAJo3.jpg)
+
+
+Você sabe definir o que é DevOps?
+
+DevOps, ou Devops, ou devops - não há sequer consenso em qual a grafia "correta" - tem uma história que é mais valiosa em si que as definições apresentadas atualmente.
+
+Eu digo isso porque, com o tempo, é normal que termos sejam recontextualizados de acordo com os "tempos modernos", o que pode ou não mudar de maneira substancial o que se quer dizer.
+
+No caso de "devops" em si, literalmente não há uma metodologia, ferramenta, processo ou mesmo profissão bem definida. O que há é a ideia por trás da necessidade original, que é promover uma mudança na maneira como se enxergava infraestrutura na época para gerar uma nova visão compatível com as demais mudanças que estavam ocorrendo no processo de desenvolvimento de software.
+
+Por não haver um guia pré definido (ou mesmo um "manifesto real", como há para o Agile software Development, embora haja adaptações por aí), a verdade é que temos cada empresa fazendo do seu jeito - inclusive, é possível até mesmo encontrar, em uma mesma empresa, iniciativas diferentes sendo conduzidas ao mesmo tempo com o mesmo propósito!
+
+Quase 15 anos depois, "DevOps" virou um cargo/função nas empresas. Posicionar-se contra isso de maneira crítica é infrutífero e, de certa forma, pedante. O que podemos fazer é tentar trazer alguma luz para aquelas pessoas que tentam descobrir "o que é devops" e se perdem no meio de tantas definições, artigos e vídeos falando coisas diferentes.
+
+Espero que gostem!
+
+#devops #cloudnative #devsres
+
+
+# Post 
+[https://www.instagram.com/p/Ci_hrxALaOU](https://www.instagram.com/p/Ci_hrxALaOU)
+
+![](Ci_hrxALaOU.jpg)
+
+
+Você, que usa AWS, me diz aí: você sabe TUDO do IAM?
+
+Se você respondeu que sim, repense! 
+
+A menos que realmente você seja um ultra especialista em segurança, compliance e em policies, é possível que você esteja superestimando seus conhecimentos. E acredite, quando o assunto é IAM, isso definitivamente não é bom. E eu vou te mostrar *hoje* como um deslize bobo pode ter consequências catastróficas!
+
+Trate IAM como um pedaço qualquer de código que você escreve: mais importante que a política em si são os testes de validação que você faz em cima delas!
+
+#aws #iam #devops #linux #cloud #devsres
+
+
+# Post 
 [https://www.instagram.com/p/CiWHKSHrlSv](https://www.instagram.com/p/CiWHKSHrlSv)
 
 ![](CiWHKSHrlSv.jpg)
