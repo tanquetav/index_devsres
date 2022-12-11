@@ -1,4 +1,97 @@
 # Post 
+[https://www.instagram.com/p/Cl-KQRZu0zc](https://www.instagram.com/p/Cl-KQRZu0zc)
+
+![](Cl-KQRZu0zc.jpg)
+
+
+Atrasado em uma semana, segue um recap básico com algumas observações sobre novidades advindas do AWS Re:Invent 2022!
+
+A lista relacionada não está sob hipótese alguma completa, mas foram as mudanças mais interessantes para as "pessoas normais" assistindo ao evento.
+
+Resolvi não falar do CodeCatalyst para deixar para outro dia!
+
+Mas vamos falar sobre o que realmente importa: qual o serviço com o nome mais obscuro e menos intuitivo na sua opinião?
+
+#aws #devops #cloudnative #reinvent #devsres
+
+
+# Post 
+[https://www.instagram.com/p/Cl4mEGIurG5](https://www.instagram.com/p/Cl4mEGIurG5)
+
+![](Cl4mEGIurG5.jpg)
+
+
+Que análise você faz dos componentes que você instala no seu cluster Kubernetes?
+
+Quando você instala um helm chart, já parou para olhar tudo que ele instala e configura?
+
+Componentes avançados precisam de privilégios especiais para operar adequadamente, em especial controllers adicionais e operators. 
+
+Não há muito o que fazer para reduzir esses privilégios na maioria das vezes, o que não quer dizer que você não deva tomar uma ação a respeito!
+
+É importante fazer uma gestão de risco adequada dos seus clusters para saber o que você precisa monitorar. Se não há como reduzir o escopo de atuação das contas de serviço no Kubernetes, é extremamente importante que você entenda seus padrões de acesso para poder detectar adequadamente acessos "fora do comum" no seu ambiente.
+
+#kubernetes #cybersecurity #infosec #devops #k8s #cloudnative #devsres
+
+
+# Post 
+[https://www.instagram.com/p/Clznr1cJ2eV](https://www.instagram.com/p/Clznr1cJ2eV)
+
+![](Clznr1cJ2eV.jpg)
+
+
+Após um hiato acima do normal, estamos de volta à programação normal! O que são service accounts?
+
+Você sabia que ServiceAccount é um conceito tão primordial para o Kubernetes que foi implementado antes mesmo do conceito de Deployments?
+
+Entender o que são e como funcionam serviceaccounts é algo essencial para qualquer cluster Kubernetes - você está fadado a ter pelo menos alguns componentes que precisarão acessar a API do Kubernetes: se não suas próprias aplicações, aquelas necessárias para manter um cluster operacional (como monitoração ou ingress controllers).
+
+A parte mais importante de discutir este assunto é entender a grande mudança que aconteceu com o Kubernetes 1.24 e que nem todo mundo teve a oportunidade de acompanhar: a mudança da criação automática do token de serviceaccount persistente para a geração automática de um token que expira a partir de um determinado tempo.
+
+Segue no post que vamos ver todos estes assuntos hoje!
+
+#kubernetes #devops #cloudnative #cka #cks #devsres
+
+
+# Post 
+[https://www.instagram.com/p/CkZiZs3p_dA](https://www.instagram.com/p/CkZiZs3p_dA)
+
+![](CkZiZs3p_dA.jpg)
+
+
+Com uma semana de atraso, aí vem: usuários e grupos em clusters Kubernetes.
+
+Na era da massificação dos clusters Kubernetes gerenciados por cloud providers, normalmente este assunto só é visto por quem está estudando para se preparar para certificações como CKA, CKAD e CKS. 
+
+O engraçado é que, para estas provas, normalmente se estuda o mínimo necessário, que é a "maneira nativa" do Kubernetes interpretar de onde vêm usuários e grupos.
+
+Eu noto uma enorme lacuna no entendimento de como funciona este processo na maioria das pessoas, e infelizmente o assunto é complexo demais para abordar em um único post. Então, optei por explicar como funciona esse "modo nativo" do Kubernetes com exemplos práticos (que você pode executar em clusters gerados via kubeadm, por exemplo) e citar por alto como a AWS implementa seu processo de autenticação usando webhooks.
+
+Agora me dá sua opinião: acha que vale a pena aprofundar ainda mais em como funcionam os authorizers no Kubernetes e sua integração com OIDC providers ou passamos para o próximo assunto - Service Accounts? Escreve aí!
+
+#kubernetes #devops #cloudnative #eks #devsres
+
+
+# Post 
+[https://www.instagram.com/p/CkKIRTyr1fR](https://www.instagram.com/p/CkKIRTyr1fR)
+
+![](CkKIRTyr1fR.jpg)
+
+
+Você entende de verdade como funciona o controle de acesso em clusters Kubernetes?
+
+Ah, respondeu que sim! Será que entende mesmo?
+
+Vamos começar uma nova série falando sobre segurança em clusters Kubernetes, mas começando do (aparente) básico: controle de acesso (i.e. autenticação e autorização)!
+
+Hoje vamos entender um pouco dos mecanismos básicos envolvidos com o processo de *autorização*. Vamos deixar a autenticação para mais tarde!
+
+Vamos começar pelo básico para poder fazer um deep dive nas próximas semanas!
+
+#Kubernetes #devops #cloudnative  #cka #cks #devsres
+
+
+# Post 
 [https://www.instagram.com/p/CjRXnnGAJo3](https://www.instagram.com/p/CjRXnnGAJo3)
 
 ![](CjRXnnGAJo3.jpg)
@@ -1780,23 +1873,6 @@ Sem algum grau de preparo específico para a realização da prova, você pode r
 A maioria das dicas que estão aí você provavelmente encontra em outros lugares, mas deixei minha opiniao sobre alguns assuntos que raramente vejo alguém comentado e que acho importante.
 
 #kubernetes #cka #ckad
-
-
-# Post 
-[https://www.instagram.com/p/CTBQAQXL3ZR](https://www.instagram.com/p/CTBQAQXL3ZR)
-
-![](CTBQAQXL3ZR.jpg)
-
-
-Assisti hoje à live do @devfullcycle com o Juliano Martins e outros dois profissionais de referência do Mercado Livre falando sobre mensageria e a forma de trabalho da empresa com seus 16 mil microsserviços e 52 milhões de mensagens por minuto.
-
-Mas a parte mais valiosa da live foi puxada pelo Wesley na frase que resumi na imagem acima: "Não delegue a gestão da sua carreira para a sua empresa". 
-
-Não é nenhum grande segredo ou novidade, mas isso sempre me lembra que passei pelo menos 2/3 dos meus 15 anos como funcionário de empresa pública estagnado, apenas trabalhando e "fazendo o que tem que ser feito".
-
-Um detalhe importante: o outro terço só foi diferente porque a própria empresa apresentou uma proposta de mudança de foco de trabalho que resultou na construção de um profissional radicalmente diferente hoje. Ou seja, tive *sorte*; não posso sequer tomar para mim o mérito dessa decisão.
-
-A lei da Inércia que funciona na física também funciona na vida real. Meu conselho a todos: matenham-se sempre em movimento. Parados não chegamos a lugar nenhum.
 
 
 # Post 
